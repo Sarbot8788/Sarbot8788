@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarbot8788
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on Front End Projects
 - 📫 How to reach me 
 
